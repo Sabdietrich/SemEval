@@ -2,4 +2,4 @@
 
 https://sites.google.com/view/nli4ct/
 
-The task was accomplished by using 3 approaches: using Bert, Roberta and Roberta + Kfold 5 
+The task was accomplished by using 3 different approaches: Bert, Roberta and Roberta + Kfold 5 
